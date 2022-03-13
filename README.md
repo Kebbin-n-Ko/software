@@ -12,7 +12,7 @@ Also, contact the actual Developer team on [Discord](https://discord.gg/AUxvMZH9
 Just get yourself an Arduino microcontroller board, add on a little motor shield to connect to the tracks, maybe add a WiFi shield for more controller options (like a free smartphone app!), load the free DCC++EX program into it, and away you go! **Easy as!**
 
 This software is mature and stable, and is well able to run anything from mini switching puzzle layouts, right up to gigantic museum layouts! 
-It's open source code, so you can view and contribute to the magic on GitHub! Even if it's "just" helping with documentation, which is always welcomed...
+It's **open source code**, so you can *view and contribute* to the magic right here on [GitHub](https://github.com/DCC-EX/CommandStation-EX)! Even if it's "just" helping with [documentation](https://github.com/DCC-EX/dcc-ex.github.io), which is always welcomed...
 
 ## EX-RIDE
 
